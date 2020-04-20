@@ -1,0 +1,731 @@
+type,id,bnf_code,nm
+amp,20158911000001108,0801050BEBBAAAA,Abraxane 100mg powder for suspension for infusion vials (Celgene Ltd)
+amp,14953811000001108,,Abraxane 100mg powder for suspension for infusion vials (Celgene Ltd)
+amp,14675711000001100,0801030Y0BBABAB,Alimta 100mg powder for concentrate for solution for infusion vials (Eli Lilly and Company Ltd)
+amp,8993411000001103,0801030Y0BBAAAA,Alimta 500mg powder for concentrate for solution for infusion vials (Eli Lilly and Company Ltd)
+amp,19265811000001103,,Arzerra 1000mg/50ml concentrate for solution for infusion vials (Novartis Pharmaceuticals UK Ltd)
+amp,17191011000001103,,Arzerra 100mg/5ml concentrate for solution for infusion vials (Novartis Pharmaceuticals UK Ltd)
+amp,34864711000001103,0801050CFBBAAAA,Bavencio 200mg/10ml concentrate for solution for infusion vials (Merck Serono Ltd)
+amp,32643011000001107,,Bendamustine 100mg powder for concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,32786911000001100,,Bendamustine 100mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,37065311000001107,,Bendamustine 100mg powder for concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,32687111000001108,,Bendamustine 100mg powder for concentrate for solution for infusion vials (Teva UK Ltd)
+amp,33156111000001109,,Bendamustine 100mg powder for concentrate for solution for infusion vials (Zentiva)
+amp,32684011000001104,,Bendamustine 100mg powder for concentrate for solution for infusion vials (medac UK)
+amp,36627611000001106,,Bendamustine 180mg/4ml concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,32642811000001109,,Bendamustine 25mg powder for concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,32786611000001106,,Bendamustine 25mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,37061411000001103,,Bendamustine 25mg powder for concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,32686711000001106,,Bendamustine 25mg powder for concentrate for solution for infusion vials (Teva UK Ltd)
+amp,33155511000001107,,Bendamustine 25mg powder for concentrate for solution for infusion vials (Zentiva)
+amp,32683711000001104,,Bendamustine 25mg powder for concentrate for solution for infusion vials (medac UK)
+amp,4844711000001107,0801010D0BBAAAA,BiCNU 100mg powder and solvent for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,20471811000001105,0801020K0BDAAAF,Caelyx 20mg/10ml concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,4849111000001107,,Caelyx 20mg/10ml concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,20472311000001105,0801020K0BDABAG,Caelyx 50mg/25ml concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,4849611000001104,,Caelyx 50mg/25ml concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,4696711000001100,0801050Q0BBAAAA,Campto 100mg/5ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,15546011000001108,0801050Q0BBACAC,Campto 300mg/15ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,8089311000001103,0801050Q0BBABAB,Campto 40mg/2ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,20204811000001101,0801050F0AAAEAE,Carboplatin 150mg/15ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36600011000001106,0801050F0AAAEAE,Carboplatin 150mg/15ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,19353311000001109,0801050F0AAAEAE,Carboplatin 150mg/15ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,10524611000001101,0801050F0AAAEAE,Carboplatin 150mg/15ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18754711000001108,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36785811000001103,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials (Consilient Health Ltd)
+amp,9104711000001109,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials (PLIVA Pharma Ltd)
+amp,4635611000001107,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials (Pfizer Ltd)
+amp,7466511000001101,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials (Wockhardt UK Ltd)
+amp,35317811000001109,,Carboplatin 270mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35318111000001101,,Carboplatin 300mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35356011000001105,,Carboplatin 330mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35361511000001104,,Carboplatin 360mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35362511000001107,,Carboplatin 400mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,20205611000001104,0801050F0AAAFAF,Carboplatin 450mg/45ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36600211000001101,0801050F0AAAFAF,Carboplatin 450mg/45ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,19353511000001103,0801050F0AAAFAF,Carboplatin 450mg/45ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,10525111000001108,0801050F0AAAFAF,Carboplatin 450mg/45ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18754911000001105,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36786011000001100,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials (Consilient Health Ltd)
+amp,9104911000001106,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials (PLIVA Pharma Ltd)
+amp,4635311000001102,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials (Pfizer Ltd)
+amp,7467111000001108,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials (Wockhardt UK Ltd)
+amp,35362911000001100,,Carboplatin 450mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35363611000001101,,Carboplatin 500mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,20206211000001107,0801050F0AAADAD,Carboplatin 50mg/5ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36600411000001102,0801050F0AAADAD,Carboplatin 50mg/5ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,19353711000001108,0801050F0AAADAD,Carboplatin 50mg/5ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,10524411000001104,0801050F0AAADAD,Carboplatin 50mg/5ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18754511000001103,0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36785611000001102,0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials (Consilient Health Ltd)
+amp,4642411000001100,0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials (Pfizer Ltd)
+amp,7466111000001105,0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials (Wockhardt UK Ltd)
+amp,35364011000001105,,Carboplatin 560mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,20206611000001109,0801050F0AAAGAG,Carboplatin 600mg/60ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36600611000001104,0801050F0AAAGAG,Carboplatin 600mg/60ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,19353911000001105,0801050F0AAAGAG,Carboplatin 600mg/60ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,10525511000001104,0801050F0AAAGAG,Carboplatin 600mg/60ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18755311000001108,0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36786211000001105,0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials (Consilient Health Ltd)
+amp,4644511000001106,0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials (Pfizer Ltd)
+amp,35364611000001103,,Carboplatin 630mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35365011000001109,,Carboplatin 700mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35365411000001100,,Carboplatin 790mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,34006211000001102,0801010D0AAAAAA,Carmustine 100mg powder and solvent for solution for infusion vials (Emcure Pharma UK Ltd)
+amp,36866711000001103,0801010D0AAAAAA,Carmustine 100mg powder and solvent for solution for infusion vials (Nexcape Pharmaceuticals Ltd)
+amp,36485511000001106,0801010D0AAAAAA,Carmustine 100mg powder and solvent for solution for infusion vials (Tillomed Laboratories Ltd)
+amp,36783411000001104,,Carmustine Obvius 100mg powder and solvent for concentrate for solution for infusion vials (Nexcape Pharmaceuticals Ltd)
+amp,10638811000001104,0801010Q0BBADAD,CeeNU 100mg capsules (Imported (United States))
+amp,10639111000001104,0801010Q0BBACAA,CeeNU 10mg capsules (Imported (United States))
+amp,5012011000001104,0801010W0AAAAAA,Chlormethine 10mg solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,29212511000001107,,Cosentyx 150mg/1ml solution for injection pre-filled pens (Novartis Pharmaceuticals UK Ltd)
+amp,34871211000001100,,Cosentyx 150mg/1ml solution for injection pre-filled syringes (Novartis Pharmaceuticals UK Ltd)
+amp,29212911000001100,,Cosentyx 150mg/1ml solution for injection pre-filled syringes (Novartis Pharmaceuticals UK Ltd)
+amp,4595211000001106,0801050L0BBABAB,DTIC-Dome 200mg powder for solution for injection vials (Bayer Plc)
+amp,11403011000001103,0801050L0AAAAAA,Dacarbazine 100mg powder for solution for injection vials (PLIVA Pharma Ltd)
+amp,7323411000001109,0801050L0AAAAAA,Dacarbazine 100mg powder for solution for injection vials (medac UK)
+amp,7323311000001102,0801050L0AAAEAE,Dacarbazine 1g powder for solution for infusion vials (medac UK)
+amp,4595711000001104,0801050L0AAABAB,Dacarbazine 200mg powder for solution for injection vials (Hospira UK Ltd)
+amp,11403511000001106,0801050L0AAABAB,Dacarbazine 200mg powder for solution for injection vials (PLIVA Pharma Ltd)
+amp,10277911000001108,0801050L0AAABAB,Dacarbazine 200mg powder for solution for injection vials (medac UK)
+amp,7323511000001108,0801050L0AAADAD,Dacarbazine 500mg powder for solution for infusion vials (medac UK)
+amp,4943611000001108,0801050L0AAACAC,Dacarbazine 600mg powder for solution for infusion vials (Hospira UK Ltd)
+amp,4690811000001106,0801020J0BBAAAA,DaunoXome 50mg/25ml concentrate for solution for infusion vials (Galen Ltd)
+amp,18758711000001100,0801020J0AAABAB,Daunorubicin 20mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,4691711000001106,0801020J0AAABAB,Daunorubicin 20mg powder for solution for infusion vials (Zentiva)
+amp,35643311000001108,,Docetaxel 108mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35643711000001107,,Docetaxel 120mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35644111000001108,,Docetaxel 132mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,18543611000001100,0801050D0AAAHAH,Docetaxel 140mg/7ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,18300411000001104,0801050D0AAAHAH,Docetaxel 140mg/7ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,35644511000001104,,Docetaxel 148mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,18870811000001105,0801050D0AAAGAG,Docetaxel 160mg/16ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,18305811000001108,0801050D0AAAGAG,Docetaxel 160mg/16ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,34559211000001100,0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21293411000001109,0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36685811000001107,0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35545211000001107,0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,34824311000001107,0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,35645911000001105,,Docetaxel 200mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,22756511000001104,,Docetaxel 20mg/0.5ml solution for infusion vials and diluent (Teva UK Ltd)
+amp,24504911000001102,0801050D0AAALAL,Docetaxel 20mg/0.72ml concentrate for solution for infusion vials and diluent (Teva UK Ltd)
+amp,18542411000001107,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21293611000001107,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,25933611000001102,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,36685311000001103,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35544711000001104,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,18298811000001106,0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18542611000001105,0801050D0AAAEAE,Docetaxel 20mg/2ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,18304811000001107,0801050D0AAAEAE,Docetaxel 20mg/2ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,22831311000001104,,Docetaxel 20mg/2ml solution for infusion vials and diluent (Teva UK Ltd)
+amp,29224211000001105,0801050D0AAAMAM,Docetaxel 80mg/2.88ml concentrate for solution for infusion vials and diluent (A A H Pharmaceuticals Ltd)
+amp,24505311000001104,0801050D0AAAMAM,Docetaxel 80mg/2.88ml concentrate for solution for infusion vials and diluent (Teva UK Ltd)
+amp,22756711000001109,,Docetaxel 80mg/2ml solution for infusion vials and diluent (Teva UK Ltd)
+amp,18542811000001109,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21293811000001106,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,25933411000001100,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,36685511000001109,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35544911000001102,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,18300111000001109,0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,18543011000001107,0801050D0AAAFAF,Docetaxel 80mg/8ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,18305511000001105,0801050D0AAAFAF,Docetaxel 80mg/8ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,22831611000001109,,Docetaxel 80mg/8ml solution for infusion vials and diluent (Teva UK Ltd)
+amp,35601811000001105,,Doxorubicin 100mg/50ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,35619811000001109,,Doxorubicin 100mg/50ml solution for injection pre-filled syringes (Special Order)
+amp,4686511000001106,0801020K0AAAAAA,Doxorubicin 10mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,11528811000001100,0801020K0AAAAAA,Doxorubicin 10mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4686811000001109,0801020K0AAAAAA,Doxorubicin 10mg powder for solution for injection vials (Hospira UK Ltd)
+amp,13441711000001103,0801020K0AAAIAI,Doxorubicin 10mg/2ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,20263511000001103,0801020K0AAACAC,Doxorubicin 10mg/5ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,35589011000001107,0801020K0AAACAC,Doxorubicin 10mg/5ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,24378411000001106,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for infusion vials (medac UK)
+amp,4683611000001104,0801020K0BCAEAC,Doxorubicin 10mg/5ml solution for injection Cytosafe vials (Pfizer Ltd)
+amp,18871511000001100,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4683411000001102,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4683211000001101,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials (Pfizer Ltd)
+amp,10531511000001104,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials (Teva UK Ltd)
+amp,20262711000001100,0801020K0AAAJAJ,Doxorubicin 200mg/100ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,35589411000001103,0801020K0AAAJAJ,Doxorubicin 200mg/100ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,18872211000001105,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,11529511000001109,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,4685511000001104,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (Pfizer Ltd)
+amp,10532111000001103,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (Teva UK Ltd)
+amp,14966311000001102,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (hameln pharma Ltd)
+amp,24377411000001107,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials (medac UK)
+amp,17558111000001109,0801020K0BCAGAJ,Doxorubicin 200mg/100ml solution for injection Cytosafe vials (Pfizer Ltd)
+amp,35601411000001108,,Doxorubicin 20mg/10ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,22311811000001100,,Doxorubicin 20mg/10ml solution for infusion pre-filled syringes (Special Order)
+amp,22313211000001102,,Doxorubicin 45mg/22.5ml solution for infusion pre-filled syringes (Special Order)
+amp,4688311000001101,0801020K0AAABAB,Doxorubicin 50mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,11529011000001101,0801020K0AAABAB,Doxorubicin 50mg powder for solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4688511000001107,0801020K0AAABAB,Doxorubicin 50mg powder for solution for injection vials (Hospira UK Ltd)
+amp,20262911000001103,0801020K0AAADAD,Doxorubicin 50mg/25ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,35589211000001102,0801020K0AAADAD,Doxorubicin 50mg/25ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,13379511000001102,0801020K0AAADAD,Doxorubicin 50mg/25ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,24377211000001108,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for infusion vials (medac UK)
+amp,4685211000001102,0801020K0BCAFAD,Doxorubicin 50mg/25ml solution for injection Cytosafe vials (Pfizer Ltd)
+amp,35620411000001106,,Doxorubicin 50mg/25ml solution for injection pre-filled syringes (Special Order)
+amp,18872811000001106,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4684511000001100,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials (Alliance Healthcare (Distribution) Ltd)
+amp,4684811000001102,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials (Pfizer Ltd)
+amp,10531811000001101,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials (Teva UK Ltd)
+amp,22313811000001101,,Doxorubicin 55mg/27.5ml solution for infusion pre-filled syringes (Special Order)
+amp,22314411000001100,,Doxorubicin 5mg/2.5ml solution for infusion pre-filled syringes (Special Order)
+amp,35620911000001103,,Doxorubicin 60mg/30ml solution for injection pre-filled syringes (Special Order)
+amp,4687011000001100,0801020K0AAAAAA,Doxorubicin Rapid Dissolution 10mg powder for solution for injection vials (Pfizer Ltd)
+amp,4688911000001100,0801020K0AAABAB,Doxorubicin Rapid Dissolution 50mg powder for solution for injection vials (Pfizer Ltd)
+amp,10619911000001108,0801020K0AAAAAA,Doxorubin 10mg powder for solution for injection vials (medac UK)
+amp,10620411000001101,0801020K0AAACAC,Doxorubin 10mg/5ml solution for injection vials (medac UK)
+amp,10620811000001104,0801020K0AAAJAJ,Doxorubin 200mg/100ml solution for infusion vials (medac UK)
+amp,10620211000001100,0801020K0AAABAB,Doxorubin 50mg powder for solution for injection vials (medac UK)
+amp,10620611000001103,0801020K0AAADAD,Doxorubin 50mg/25ml solution for injection vials (medac UK)
+amp,7310011000001101,,Eloxatin 100mg powder for solution for infusion vials (Sanofi)
+amp,10247511000001102,0801050ALBBABAB,Eloxatin 100mg/20ml concentrate for solution for infusion vials (Sanofi)
+amp,10969111000001105,0801050ALBBACAE,Eloxatin 200mg/40ml concentrate for solution for infusion vials (Sanofi)
+amp,7309811000001101,,Eloxatin 50mg powder for solution for infusion vials (Sanofi)
+amp,10247111000001106,0801050ALBBAAAA,Eloxatin 50mg/10ml concentrate for solution for infusion vials (Sanofi)
+amp,22764011000001107,0801050BMBBAAAA,Erivedge 150mg capsules (Roche Products Ltd)
+amp,21674311000001108,,Eylea 4mg/100microlitres solution for injection vials (Bayer Plc)
+amp,25444111000001106,0802030G0BBAAAA,Gazyvaro 1000mg/40ml concentrate for solution for infusion vials (Roche Products Ltd)
+amp,33491311000001109,,Gemcitabine 1.2g/120ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,37267811000001104,,Gemcitabine 1.4g/140ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,17650211000001109,0801030X0AAACAC,Gemcitabine 1.5g powder for solution for infusion vials (medac UK)
+amp,33491811000001100,,Gemcitabine 1.6g/160ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,33492211000001108,,Gemcitabine 1.8g/180ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,37916311000001105,,Gemcitabine 1026mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37916611000001100,,Gemcitabine 1100mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37916911000001106,,Gemcitabine 1140mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37917211000001100,,Gemcitabine 1254mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37917511000001102,,Gemcitabine 1300mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37917811000001104,,Gemcitabine 1368mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37918111000001107,,Gemcitabine 1400mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37918411000001102,,Gemcitabine 1500mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37918711000001108,,Gemcitabine 1520mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37919011000001101,,Gemcitabine 1710mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37919311000001103,,Gemcitabine 1900mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,15934111000001108,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20274411000001109,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,15516611000001108,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Actavis UK Ltd)
+amp,36666311000001106,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,17665211000001107,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Mylan)
+amp,17846711000001108,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Pfizer Ltd)
+amp,15472411000001105,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,15377911000001106,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (Teva UK Ltd)
+amp,17649711000001106,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials (medac UK)
+amp,23569011000001101,0801030X0AAAIAI,Gemcitabine 1g/10ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,32903411000001108,0801030X0AAALAL,Gemcitabine 1g/25ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,32775011000001104,0801030X0AAALAL,Gemcitabine 1g/25ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,29701811000001108,0801030X0AAAFAF,Gemcitabine 1g/26.3ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,36688011000001109,0801030X0AAAFAF,Gemcitabine 1g/26.3ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,18590911000001106,0801030X0AAAFAF,Gemcitabine 1g/26.3ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,33493511000001104,,Gemcitabine 2.2g/220ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,15933911000001109,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20274611000001107,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,15516411000001105,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,36666511000001100,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,17665411000001106,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Mylan)
+amp,17846511000001103,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Pfizer Ltd)
+amp,15472211000001106,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,15377711000001109,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (Teva UK Ltd)
+amp,17649911000001108,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials (medac UK)
+amp,23566911000001106,0801030X0AAAHAH,Gemcitabine 200mg/2ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36687811000001102,0801030X0AAANAN,Gemcitabine 200mg/5.26ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,29702011000001105,0801030X0AAAEAE,Gemcitabine 200mg/5.3ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,18590011000001107,0801030X0AAAEAE,Gemcitabine 200mg/5.3ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,32903811000001105,0801030X0AAAKAK,Gemcitabine 200mg/5ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,32774711000001101,0801030X0AAAKAK,Gemcitabine 200mg/5ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,37919611000001108,,Gemcitabine 2128mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37919911000001102,,Gemcitabine 2394mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,37920211000001105,,Gemcitabine 2400mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,18275811000001106,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20274211000001105,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,17828911000001107,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials (Actavis UK Ltd)
+amp,36617111000001106,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,17846911000001105,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials (Pfizer Ltd)
+amp,33492811000001109,,Gemcitabine 2g/200ml infusion bags (Sun Pharmaceutical Industries Europe B.V.)
+amp,23570911000001104,0801030X0AAAJAJ,Gemcitabine 2g/20ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,32903611000001106,0801030X0AAAMAM,Gemcitabine 2g/50ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,32775311000001101,0801030X0AAAMAM,Gemcitabine 2g/50ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,36688211000001104,0801030X0AAAGAG,Gemcitabine 2g/52.6ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,18591211000001108,0801030X0AAAGAG,Gemcitabine 2g/52.6ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,4756511000001109,0801030X0BBAAAA,Gemzar 1g powder for solution for infusion vials (Eli Lilly and Company Ltd)
+amp,4771111000001107,0801030X0BBABAB,Gemzar 200mg powder for solution for infusion vials (Eli Lilly and Company Ltd)
+amp,7553611000001109,0801010D0BCAAAB,Gliadel 7.7mg implant (Eisai Ltd)
+amp,18772311000001100,0801050BBBBAAAA,Halaven 0.88mg/2ml solution for injection vials (Eisai Ltd)
+amp,29676311000001107,0801050BBBBABAB,Halaven 1.32mg/3ml solution for injection vials (Eisai Ltd)
+amp,4803011000001101,0801050ADBBAAAA,Herceptin 150mg powder for concentrate for solution for infusion vials (Roche Products Ltd)
+amp,23157311000001105,0801050ADBBABAB,Herceptin 600mg/5ml solution for injection vials (Roche Products Ltd)
+amp,35326711000001108,0801050ADBEAAAA,Herzuma 150mg powder for concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,36590011000001101,0801050ADBEABAE,Herzuma 420mg powder for concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,14225911000001104,0801050AFBBACAC,Hycamtin 0.25mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,14226211000001102,0801050AFBBADAD,Hycamtin 1mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,7315711000001109,0801050AFBBAAAA,Hycamtin 1mg powder for concentrate for solution for infusion vials (Novartis Pharmaceuticals UK Ltd)
+amp,4802711000001107,0801050AFBBABAB,Hycamtin 4mg powder for concentrate for solution for infusion vials (Novartis Pharmaceuticals UK Ltd)
+amp,22649911000001105,,Idarubicin 10mg powder for solution for injection vials (Teva UK Ltd)
+amp,22785711000001106,0801020P0AAAFAF,Idarubicin 10mg/10ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34704011000001104,0801020P0AAAFAF,Idarubicin 10mg/10ml solution for injection vials (Accord Healthcare Ltd)
+amp,22705211000001100,0801020P0AAAFAF,Idarubicin 10mg/10ml solution for injection vials (Teva UK Ltd)
+amp,22649711000001108,,Idarubicin 5mg powder for solution for injection vials (Teva UK Ltd)
+amp,22785511000001101,0801020P0AAAGAG,Idarubicin 5mg/5ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,34703111000001100,0801020P0AAAGAG,Idarubicin 5mg/5ml solution for injection vials (Accord Healthcare Ltd)
+amp,22705511000001102,0801020P0AAAGAG,Idarubicin 5mg/5ml solution for injection vials (Teva UK Ltd)
+amp,16591411000001103,0802040ACBBAAAA,Ilaris 150mg powder for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,35035511000001109,0802040ACBBABAB,Ilaris 150mg/1ml solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,16444211000001104,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,35849511000001107,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15861311000001109,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,20275011000001101,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,17520311000001105,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Mylan)
+amp,17846111000001107,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,35545711000001100,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,15926611000001107,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,17523311000001104,0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials (medac UK)
+amp,35612111000001106,,Irinotecan 200mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35612511000001102,,Irinotecan 220mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35612911000001109,,Irinotecan 240mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35613411000001105,,Irinotecan 260mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35635411000001101,,Irinotecan 280mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,18543811000001101,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,35849711000001102,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,19633311000001101,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,21294011000001103,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35545911000001103,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,17523411000001106,0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials (medac UK)
+amp,35635811000001104,,Irinotecan 300mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35636411000001105,,Irinotecan 320mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35640811000001106,,Irinotecan 360mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35641211000001104,,Irinotecan 400mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,16444011000001109,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,35849311000001101,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15861111000001107,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,20274811000001106,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,17520511000001104,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Mylan)
+amp,17845911000001103,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,35545511000001105,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,15926411000001109,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,17523211000001107,0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials (medac UK)
+amp,16731811000001107,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20275211000001106,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,16446711000001102,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,36761211000001104,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,17846311000001109,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,35546111000001107,0801050Q0AAADAD,Irinotecan 500mg/25ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,23964811000001100,0801050ADBCAAAC,Kadcyla 100mg powder for concentrate for solution for infusion vials (Roche Products Ltd)
+amp,23965111000001106,0801050ADBCABAD,Kadcyla 160mg powder for concentrate for solution for infusion vials (Roche Products Ltd)
+amp,35552711000001106,0801050ADBFAAAA,Kanjinti 150mg powder for concentrate for solution for infusion vials (Amgen Ltd)
+amp,35890911000001103,0801050ADBFABAE,Kanjinti 420mg powder for concentrate for solution for infusion vials (Amgen Ltd)
+amp,37287311000001105,0801010W0BCAAAB,Ledaga 160micrograms/g gel (Recordati Rare Diseases UK Ltd)
+amp,17872511000001103,,Levact 100mg powder for concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,17871511000001106,,Levact 25mg powder for concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,15874011000001101,0801010Q0AAADAD,Lomustine 100mg capsules (Special Order)
+amp,15874311000001103,0801010Q0AAAAAA,Lomustine 10mg capsules (Special Order)
+amp,8170311000001107,0801010Q0AAABAB,Lomustine 40mg capsules (Alliance Healthcare (Distribution) Ltd)
+amp,4367011000001108,0801010Q0AAABAB,Lomustine 40mg capsules (medac UK)
+amp,9467311000001101,0801050R0BBAAAA,Lysodren 500mg tablets (HRA Pharma UK Ltd)
+amp,9522211000001109,0801020K0BEAAAH,Myocet 50mg powder and solvent for suspension for infusion vials (Teva UK Ltd)
+amp,30089411000001109,0802040ATBCAAAB,Nivolumab BMS 100mg/10ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,30089111000001104,0802040ATBCABAA,Nivolumab BMS 40mg/4ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,19463411000001100,0802020Y0BBAAAA,Nulojix 250mg powder for concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,34103311000001106,0801050Q0BCAAAE,Onivyde pegylated liposomal 43mg/10ml concentrate for solution for infusion vials (Servier Laboratories Ltd)
+amp,35201011000001102,0801050ADBDAAAA,Ontruzant 150mg powder for concentrate for solution for infusion vials (Merck Sharp & Dohme Ltd)
+amp,29887611000001103,0802040ATBBABAB,Opdivo 100mg/10ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,36818511000001105,,Opdivo 100mg/10ml concentrate for solution for infusion vials (Originalis B.V.)
+amp,35541611000001106,0802040ATBBACAC,Opdivo 240mg/24ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,29887311000001108,0802040ATBBAAAA,Opdivo 40mg/4ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,10964711000001105,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,15115911000001104,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,16100511000001101,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (Mylan)
+amp,13643911000001102,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (PLIVA Pharma Ltd)
+amp,10907211000001109,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (Pfizer Ltd)
+amp,15161211000001106,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,14752211000001109,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials (medac UK)
+amp,19473311000001102,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21294211000001108,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,34228811000001103,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,12779211000001109,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36810511000001107,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Sandoz Ltd)
+amp,38153711000001102,,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,22641611000001100,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,12533611000001105,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,33421111000001100,0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials (medac UK)
+amp,14752511000001107,0801050ALAAAFAF,Oxaliplatin 150mg powder for solution for infusion vials (medac UK)
+amp,21297311000001109,0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,36598611000001106,0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials (Fresenius Kabi Oncology Plc)
+amp,32711411000001100,0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36589911000001109,0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,33421311000001103,0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials (medac UK)
+amp,35314311000001109,,Oxaliplatin 225mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35315811000001104,,Oxaliplatin 250mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,35316211000001106,,Oxaliplatin 280mg/500ml in Glucose 5% infusion bags (Special Order)
+amp,10964511000001100,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,14788611000001104,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,16100711000001106,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (Mylan)
+amp,10907011000001104,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (Pfizer Ltd)
+amp,15161011000001101,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (Wockhardt UK Ltd)
+amp,14752011000001104,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials (medac UK)
+amp,19473111000001104,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20278311000001107,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,34228111000001105,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,12779011000001104,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36798511000001108,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Sandoz Ltd)
+amp,38160011000001100,,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,22643311000001106,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Sun Pharmaceutical Industries Europe B.V.)
+amp,12533411000001107,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,33420911000001109,0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials (medac UK)
+amp,19574811000001102,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20278511000001101,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15167411000001102,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,31138211000001109,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,13410711000001101,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (PLIVA Pharma Ltd)
+amp,9163411000001102,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36936311000001100,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,10533411000001104,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,10641111000001102,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,17649111000001105,0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials (medac UK)
+amp,35580111000001103,,Paclitaxel 108mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35580511000001107,,Paclitaxel 120mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35580911000001100,,Paclitaxel 132mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35585711000001107,,Paclitaxel 144mg/250ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,19575011000001107,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,23576111000001104,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15167611000001104,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,34575711000001108,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Alliance Healthcare (Distribution) Ltd)
+amp,36598111000001103,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,9163611000001104,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,10533611000001101,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,10641511000001106,0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,35586111000001100,,Paclitaxel 162mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35586511000001109,,Paclitaxel 180mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35595011000001109,,Paclitaxel 198mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35595511000001101,,Paclitaxel 216mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35595811000001103,,Paclitaxel 240mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35596211000001105,,Paclitaxel 270mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35600211000001103,,Paclitaxel 300mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,19575211000001102,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20278711000001106,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15167811000001100,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,36597411000001109,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,13410911000001104,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (PLIVA Pharma Ltd)
+amp,9163811000001100,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36936711000001101,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,10533811000001102,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,10641711000001101,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,17649311000001107,0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials (medac UK)
+amp,19574611000001101,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,20278911000001108,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,15167211000001101,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,36597811000001106,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,13410511000001106,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (PLIVA Pharma Ltd)
+amp,9163211000001101,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,36936511000001106,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,10533211000001103,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,10640911000001106,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (Wockhardt UK Ltd)
+amp,17648911000001100,0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials (medac UK)
+amp,35600611000001101,,Paclitaxel 336mg/500ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,4633411000001105,0801050F0BBAEAE,Paraplatin 150mg/15ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4634511000001107,0801050F0BBAFAF,Paraplatin 450mg/45ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4642211000001104,0801050F0BBADAD,Paraplatin 50mg/5ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4643411000001109,0801050F0BBAGAG,Paraplatin 600mg/60ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,7553911000001103,0801050V0BCABAB,Paxene 100mg/16.7ml solution for infusion vials (Hospira UK Ltd)
+amp,7556411000001101,0801050V0BCACAC,Paxene 150mg/25ml solution for infusion vials (Hospira UK Ltd)
+amp,7554911000001101,0801050V0BCADAD,Paxene 300mg/50ml solution for infusion vials (Hospira UK Ltd)
+amp,7554611000001107,0801050V0BCAAAA,Paxene 30mg/5ml solution for infusion vials (Hospira UK Ltd)
+amp,31384711000001106,,Pemetrexed 1000mg/40ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,33254711000001104,0801030Y0AAABAB,Pemetrexed 100mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,36686511000001102,0801030Y0AAABAB,Pemetrexed 100mg powder for concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35478111000001100,0801030Y0AAABAB,Pemetrexed 100mg powder for concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,31376011000001108,,Pemetrexed 100mg/4ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,33255911000001103,0801030Y0AAAAAA,Pemetrexed 500mg powder for concentrate for solution for infusion vials (Dr Reddy's Laboratories (UK) Ltd)
+amp,36686311000001108,0801030Y0AAAAAA,Pemetrexed 500mg powder for concentrate for solution for infusion vials (Fresenius Kabi Ltd)
+amp,35478511000001109,0801030Y0AAAAAA,Pemetrexed 500mg powder for concentrate for solution for infusion vials (Seacross Pharmaceuticals Ltd)
+amp,31382711000001101,,Pemetrexed 500mg/20ml concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,24405711000001106,0801050AFBCAAAA,Potactasol 1mg powder for concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,24405911000001108,0801050AFBCABAB,Potactasol 4mg powder for concentrate for solution for infusion vials (Actavis UK Ltd)
+amp,4511211000001109,0801050W0AAAAAA,Razoxane 125mg tablets (A A H Pharmaceuticals Ltd)
+amp,4511611000001106,0801050W0AAAAAA,Razoxane 125mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,4511411000001108,0801050W0AAAAAA,Razoxane 125mg tablets (Cambridge Laboratories Ltd)
+amp,5007811000001106,0802020D0BBABAB,Simulect 10mg powder and solvent for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,4773411000001103,0802020D0BBAAAA,Simulect 20mg powder and solvent for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,33749511000001100,0105030B0BBAAAA,Stelara 130mg/26ml concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,17462711000001106,1305030D0BBABAB,Stelara 45mg/0.5ml solution for injection pre-filled syringes (Janssen-Cilag Ltd)
+amp,15117011000001105,1305030D0BBAAAA,Stelara 45mg/0.5ml solution for injection vials (Janssen-Cilag Ltd)
+amp,30816311000001105,1305030D0BBACAC,Stelara 90mg/1ml solution for injection pre-filled syringes (Janssen-Cilag Ltd)
+amp,18533211000001101,0801050D0BCACAH,Taxceus 140mg/7ml concentrate for solution for infusion vials (medac UK)
+amp,18530911000001102,0801050D0BCAAAC,Taxceus 20mg/1ml concentrate for solution for infusion vials (medac UK)
+amp,18531911000001109,0801050D0BCABAD,Taxceus 80mg/4ml concentrate for solution for infusion vials (medac UK)
+amp,4629411000001109,0801050V0BBABAB,Taxol 100mg/16.7ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,9098211000001100,0801050V0BBADAC,Taxol 150mg/25ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4830011000001102,0801050V0BBACAD,Taxol 300mg/50ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,4629111000001104,0801050V0BBAAAA,Taxol 30mg/5ml solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,18309311000001102,0801050D0BBAEAI,Taxotere 160mg/8ml concentrate for solution for infusion vials (Sanofi)
+amp,4626011000001106,0801050D0BBAAAA,Taxotere 20mg/0.5ml solution for infusion vials and diluent (Sanofi)
+amp,17430511000001105,0801050D0BBACAC,Taxotere 20mg/1ml concentrate for solution for infusion vials (Sanofi)
+amp,4630011000001106,0801050D0BBABAB,Taxotere 80mg/2ml solution for infusion vials and diluent (Sanofi)
+amp,17430811000001108,0801050D0BBADAD,Taxotere 80mg/4ml concentrate for solution for infusion vials (Sanofi)
+amp,19312111000001109,,Tepadina 100mg powder for concentrate for solution for infusion vials (Adienne Pharma & Biotech)
+amp,19311711000001103,,Tepadina 15mg powder for concentrate for solution for infusion vials (Adienne Pharma & Biotech)
+amp,7274311000001106,,Thiotepa 15mg powder for solution for injection vials (Cyanamid UK)
+amp,29861211000001108,1001030ABAAABAB,Tofacitinib 5mg tablets (Special Order)
+amp,19671611000001105,0801050AFAAAAAA,Topotecan 1mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,19633511000001107,0801050AFAAAAAA,Topotecan 1mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,29743711000001105,0801050AFAAAFAF,Topotecan 1mg/1ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21294511000001106,0801050AFAAAFAF,Topotecan 1mg/1ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,23047011000001103,0801050AFAAAFAF,Topotecan 1mg/1ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,24376011000001101,0801050AFAAAFAF,Topotecan 1mg/1ml concentrate for solution for infusion vials (medac UK)
+amp,19671811000001109,0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21294711000001101,0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials (Accord Healthcare Ltd)
+amp,19633711000001102,0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials (Actavis UK Ltd)
+amp,29743911000001107,0801050AFAAAEAE,Topotecan 4mg/4ml concentrate for solution for infusion vials (A A H Pharmaceuticals Ltd)
+amp,21298711000001109,0801050AFAAAEAE,Topotecan 4mg/4ml concentrate for solution for infusion vials (Accord Healthcare Ltd)
+amp,19625511000001108,0801050AFAAAEAE,Topotecan 4mg/4ml concentrate for solution for infusion vials (Pfizer Ltd)
+amp,23046711000001104,0801050AFAAAEAE,Topotecan 4mg/4ml concentrate for solution for infusion vials (Teva UK Ltd)
+amp,24376211000001106,0801050AFAAAEAE,Topotecan 4mg/4ml concentrate for solution for infusion vials (medac UK)
+amp,14602911000001103,0801050AUBBAAAA,Torisel 30mg/1.2ml concentrate for solution for infusion vials and diluent (Pfizer Ltd)
+amp,36756311000001105,0801050ADBGAAAA,Trazimera 150mg powder for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,37616311000001106,0801050ADBGABAE,Trazimera 420mg powder for concentrate for solution for infusion vials (Pfizer Ltd)
+amp,4453011000001100,0801030S0BCAAAB,Uftoral capsules (Merck Serono Ltd)
+amp,13094411000001107,0801050ARBBAAAA,Vectibix 100mg/5ml concentrate for solution for infusion vials (Amgen Ltd)
+amp,14689011000001108,0801050ARBBABAB,Vectibix 400mg/20ml concentrate for solution for infusion vials (Amgen Ltd)
+amp,4812711000001105,0801040H0BBAAAA,Velbe 10mg powder for solution for injection vials (Eli Lilly and Company Ltd)
+amp,10060111000001109,0801040H0AAABAB,Vinblastine 10mg/10ml solution for injection vials (A A H Pharmaceuticals Ltd)
+amp,4813011000001104,0801040H0AAABAB,Vinblastine 10mg/10ml solution for injection vials (Pfizer Ltd)
+amp,35320311000001106,,Vinblastine 10mg/50ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35320711000001105,,Vinblastine 11mg/50ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35321111000001103,,Vinblastine 12mg/50ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35321811000001105,,Vinblastine 8.2mg/50ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35322211000001102,,Vinblastine 9mg/50ml in Sodium chloride 0.9% infusion bags (Special Order)
+amp,35778311000001108,0801060A0BBAAAA,Vyxeos liposomal 44mg/100mg powder for concentrate for solution for infusion vials (Jazz Pharmaceuticals UK)
+amp,35725811000001107,1001030ABBBABAC,Xeljanz 10mg tablets (Pfizer Ltd)
+amp,38101111000001109,,Xeljanz 11mg modified-release tablets (Pfizer Ltd)
+amp,34275911000001103,1001030ABBBAAAB,Xeljanz 5mg tablets (Pfizer Ltd)
+amp,19382711000001108,0801050BCBBABAB,Yervoy 200mg/40ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,37776611000001103,,Yervoy 200mg/40ml concentrate for solution for infusion vials (Originalis B.V.)
+amp,19381511000001106,0801050BCBBAAAA,Yervoy 50mg/10ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,36908611000001100,,Yervoy 50mg/10ml concentrate for solution for infusion vials (Originalis B.V.)
+amp,22219311000001101,,Zaltrap 100mg/4ml concentrate for solution for infusion vials (Sanofi)
+amp,22219711000001102,,Zaltrap 200mg/8ml concentrate for solution for infusion vials (Sanofi)
+amp,4455011000001104,0801020P0BBACAD,Zavedos 10mg capsules (Pfizer Ltd)
+amp,4456211000001103,0801020P0BBABAB,Zavedos 10mg powder for solution for injection vials (Pfizer Ltd)
+amp,4455411000001108,0801020P0BBADAE,Zavedos 25mg capsules (Pfizer Ltd)
+amp,4454611000001105,0801020P0BBAEAC,Zavedos 5mg capsules (Pfizer Ltd)
+amp,4455911000001100,0801020P0BBAAAA,Zavedos 5mg powder for solution for injection vials (Pfizer Ltd)
+amp,34717811000001104,,Zydelig 100mg tablets (Gilead Sciences International Ltd)
+amp,27946811000001107,,Zydelig 100mg tablets (Gilead Sciences International Ltd)
+amp,34718311000001109,,Zydelig 150mg tablets (Gilead Sciences International Ltd)
+amp,27947211000001108,,Zydelig 150mg tablets (Gilead Sciences International Ltd)
+vmp,22219211000001109,,Aflibercept 100mg/4ml solution for infusion vials
+vmp,22219611000001106,,Aflibercept 200mg/8ml solution for infusion vials
+vmp,21674211000001100,,Aflibercept 4mg/100microlitres solution for injection vials
+vmp,34881211000001105,0801050CFAAAAAA,Avelumab 200mg/10ml solution for infusion vials
+vmp,35906211000001100,0802020D0AAABAB,Basiliximab 10mg powder and solvent for solution for injection vials
+vmp,35907511000001100,0802020D0AAAAAA,Basiliximab 20mg powder and solvent for solution for injection vials
+vmp,19464711000001108,0802020Y0AAAAAA,Belatacept 250mg powder for solution for infusion vials
+vmp,17872411000001102,,Bendamustine 100mg powder for solution for infusion vials
+vmp,36627411000001108,,Bendamustine 180mg/4ml solution for infusion vials
+vmp,17871411000001107,,Bendamustine 25mg powder for solution for infusion vials
+vmp,16592911000001100,0802040ACAAAAAA,Canakinumab 150mg powder for solution for injection vials
+vmp,35086111000001103,0802040ACAAABAB,Canakinumab 150mg/1ml solution for injection vials
+vmp,4639311000001100,0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials
+vmp,35317711000001101,,Carboplatin 270mg/500ml in Glucose 5% infusion bags
+vmp,35318411000001106,,Carboplatin 300mg/500ml in Glucose 5% infusion bags
+vmp,35355911000001102,,Carboplatin 330mg/500ml in Glucose 5% infusion bags
+vmp,35361411000001103,,Carboplatin 360mg/500ml in Glucose 5% infusion bags
+vmp,35362411000001108,,Carboplatin 400mg/500ml in Glucose 5% infusion bags
+vmp,4639411000001107,0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials
+vmp,35362811000001105,,Carboplatin 450mg/500ml in Glucose 5% infusion bags
+vmp,35363511000001100,,Carboplatin 500mg/500ml in Glucose 5% infusion bags
+vmp,4651811000001109,0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials
+vmp,35363911000001107,,Carboplatin 560mg/500ml in Glucose 5% infusion bags
+vmp,4651911000001104,0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials
+vmp,35364511000001102,,Carboplatin 630mg/500ml in Glucose 5% infusion bags
+vmp,35364911000001109,,Carboplatin 700mg/500ml in Glucose 5% infusion bags
+vmp,35365311000001107,,Carboplatin 790mg/500ml in Glucose 5% infusion bags
+vmp,36133811000001102,0801010D0AAAAAA,Carmustine 100mg powder and solvent for solution for infusion vials
+vmp,7553411000001106,0801010D0AAABAB,Carmustine 7.7mg implant
+vmp,34819811000001109,0801010W0AAAAAA,Chlormethine 10mg solution for injection vials
+vmp,37293111000001101,0801010W0AAABAB,Chlormethine 160micrograms/g gel
+vmp,7322711000001106,0801050L0AAAAAA,Dacarbazine 100mg powder for solution for injection vials
+vmp,7322911000001108,0801050L0AAAEAE,Dacarbazine 1g powder for solution for infusion vials
+vmp,326989004,0801050L0AAABAB,Dacarbazine 200mg powder for solution for injection vials
+vmp,7322811000001103,0801050L0AAADAD,Dacarbazine 500mg powder for solution for infusion vials
+vmp,4956811000001100,0801050L0AAACAC,Dacarbazine 600mg powder for solution for infusion vials
+vmp,4694211000001102,0801020J0AAAAAA,Daunorubicin (liposomal) 50mg/25ml solution for infusion vials
+vmp,326835000,0801020J0AAABAB,Daunorubicin 20mg powder for solution for infusion vials
+vmp,35812911000001103,0801060A0AAAAAA,Daunorubicin 44mg / Cytarabine 100mg powder for solution for infusion vials
+vmp,35643211000001100,,Docetaxel 108mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35643611000001103,,Docetaxel 120mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35644011000001107,,Docetaxel 132mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,18300811000001102,0801050D0AAAHAH,Docetaxel 140mg/7ml solution for infusion vials
+vmp,35644411000001103,,Docetaxel 148mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,18305911000001103,0801050D0AAAGAG,Docetaxel 160mg/16ml solution for infusion vials
+vmp,18347511000001107,0801050D0AAAIAI,Docetaxel 160mg/8ml solution for infusion vials
+vmp,35645811000001100,,Docetaxel 200mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,4630811000001100,0801050D0AAAAAA,Docetaxel 20mg/0.5ml solution for infusion vials and diluent
+vmp,24509511000001108,0801050D0AAALAL,Docetaxel 20mg/0.72ml solution for infusion vials and diluent
+vmp,17431011000001106,0801050D0AAACAC,Docetaxel 20mg/1ml solution for infusion vials
+vmp,18306011000001106,0801050D0AAAEAE,Docetaxel 20mg/2ml solution for infusion vials
+vmp,22857911000001107,,Docetaxel 20mg/2ml solution for infusion vials and diluent
+vmp,24509611000001107,0801050D0AAAMAM,Docetaxel 80mg/2.88ml solution for infusion vials and diluent
+vmp,4630911000001105,0801050D0AAABAB,Docetaxel 80mg/2ml solution for infusion vials and diluent
+vmp,17431111000001107,0801050D0AAADAD,Docetaxel 80mg/4ml solution for infusion vials
+vmp,18306111000001107,0801050D0AAAFAF,Docetaxel 80mg/8ml solution for infusion vials
+vmp,22858011000001109,,Docetaxel 80mg/8ml solution for infusion vials and diluent
+vmp,326790002,,Doxorubicin (liposomal) 20mg/10ml solution for infusion vials
+vmp,9526811000001106,0801020K0AAAHAH,Doxorubicin (liposomal) 50mg powder and solvent for suspension for infusion vials
+vmp,134619001,,Doxorubicin (liposomal) 50mg/25ml solution for infusion vials
+vmp,35601611000001106,,Doxorubicin 100mg/50ml solution for infusion vials
+vmp,35619611000001105,,Doxorubicin 100mg/50ml solution for injection pre-filled syringes
+vmp,326788003,0801020K0AAAAAA,Doxorubicin 10mg powder for solution for injection vials
+vmp,13453911000001102,0801020K0AAAIAI,Doxorubicin 10mg/2ml solution for injection vials
+vmp,4700611000001102,0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials
+vmp,36071311000001101,0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials
+vmp,22311211000001101,,Doxorubicin 20mg/10ml solution for infusion pre-filled syringes
+vmp,35601211000001109,,Doxorubicin 20mg/10ml solution for infusion vials
+vmp,22312511000001106,,Doxorubicin 45mg/22.5ml solution for infusion pre-filled syringes
+vmp,326789006,0801020K0AAABAB,Doxorubicin 50mg powder for solution for injection vials
+vmp,35620311000001104,,Doxorubicin 50mg/25ml solution for injection pre-filled syringes
+vmp,4700511000001101,0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials
+vmp,22313511000001104,,Doxorubicin 55mg/27.5ml solution for infusion pre-filled syringes
+vmp,22314111000001105,,Doxorubicin 5mg/2.5ml solution for infusion pre-filled syringes
+vmp,35620711000001100,,Doxorubicin 60mg/30ml solution for injection pre-filled syringes
+vmp,20478211000001100,0801020K0AAAFAF,Doxorubicin liposomal pegylated 20mg/10ml solution for infusion vials
+vmp,20478311000001108,0801020K0AAAGAG,Doxorubicin liposomal pegylated 50mg/25ml solution for infusion vials
+vmp,29686811000001106,0801050BBAAABAB,Eribulin 1320micrograms/3ml solution for injection vials
+vmp,18781111000001100,0801050BBAAAAAA,Eribulin 880micrograms/2ml solution for injection vials
+vmp,33491511000001103,,Gemcitabine 1.2g/120ml infusion bags
+vmp,37280911000001105,,Gemcitabine 1.4g/140ml infusion bags
+vmp,17652111000001104,0801030X0AAACAC,Gemcitabine 1.5g powder for solution for infusion vials
+vmp,33491611000001104,,Gemcitabine 1.6g/160ml infusion bags
+vmp,33492011000001103,,Gemcitabine 1.8g/180ml infusion bags
+vmp,37924011000001107,,Gemcitabine 1026mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924111000001108,,Gemcitabine 1100mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924211000001102,,Gemcitabine 1140mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924311000001105,,Gemcitabine 1254mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924411000001103,,Gemcitabine 1300mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924511000001104,,Gemcitabine 1368mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924611000001100,,Gemcitabine 1400mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924711000001109,,Gemcitabine 1500mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924811000001101,,Gemcitabine 1520mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37924911000001106,,Gemcitabine 1710mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37925011000001106,,Gemcitabine 1900mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,326910007,0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials
+vmp,23603711000001109,0801030X0AAAIAI,Gemcitabine 1g/10ml solution for infusion vials
+vmp,32780911000001103,0801030X0AAALAL,Gemcitabine 1g/25ml solution for infusion vials
+vmp,18594811000001106,0801030X0AAAFAF,Gemcitabine 1g/26.3ml solution for infusion vials
+vmp,33493311000001105,,Gemcitabine 2.2g/220ml infusion bags
+vmp,326909002,0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials
+vmp,23603811000001101,0801030X0AAAHAH,Gemcitabine 200mg/2ml solution for infusion vials
+vmp,36753311000001101,0801030X0AAANAN,Gemcitabine 200mg/5.26ml solution for infusion vials
+vmp,18594911000001101,0801030X0AAAEAE,Gemcitabine 200mg/5.3ml solution for infusion vials
+vmp,32781011000001106,0801030X0AAAKAK,Gemcitabine 200mg/5ml solution for infusion vials
+vmp,37925111000001107,,Gemcitabine 2128mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37925211000001101,,Gemcitabine 2394mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,37925311000001109,,Gemcitabine 2400mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,17844811000001107,0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials
+vmp,33492511000001106,,Gemcitabine 2g/200ml infusion bags
+vmp,23603911000001106,0801030X0AAAJAJ,Gemcitabine 2g/20ml solution for infusion vials
+vmp,32781111000001107,0801030X0AAAMAM,Gemcitabine 2g/50ml solution for infusion vials
+vmp,18595011000001101,0801030X0AAAGAG,Gemcitabine 2g/52.6ml solution for infusion vials
+vmp,326828008,0801020P0AAADAD,Idarubicin 10mg capsules
+vmp,326821002,0801020P0AAABAB,Idarubicin 10mg powder for solution for injection vials
+vmp,36045511000001106,0801020P0AAAFAF,Idarubicin 10mg/10ml solution for injection vials
+vmp,326829000,0801020P0AAAEAE,Idarubicin 25mg capsules
+vmp,326827003,0801020P0AAACAC,Idarubicin 5mg capsules
+vmp,326820001,0801020P0AAAAAA,Idarubicin 5mg powder for solution for injection vials
+vmp,36045711000001101,0801020P0AAAGAG,Idarubicin 5mg/5ml solution for injection vials
+vmp,27946711000001104,,Idelalisib 100mg tablets
+vmp,27947111000001102,,Idelalisib 150mg tablets
+vmp,19448511000001100,0801050BCAAABAB,Ipilimumab 200mg/40ml solution for infusion vials
+vmp,19448611000001101,0801050BCAAAAAA,Ipilimumab 50mg/10ml solution for infusion vials
+vmp,36049511000001109,0801050Q0AAAAAA,Irinotecan 100mg/5ml solution for infusion vials
+vmp,35612011000001105,,Irinotecan 200mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35612411000001101,,Irinotecan 220mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35612811000001104,,Irinotecan 240mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35613211000001106,,Irinotecan 260mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35635311000001108,,Irinotecan 280mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,15568011000001101,0801050Q0AAACAC,Irinotecan 300mg/15ml solution for infusion vials
+vmp,35635711000001107,,Irinotecan 300mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35636311000001103,,Irinotecan 320mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35640711000001103,,Irinotecan 360mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35641111000001105,,Irinotecan 400mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,36049611000001108,0801050Q0AAABAB,Irinotecan 40mg/2ml solution for infusion vials
+vmp,16460411000001100,0801050Q0AAADAD,Irinotecan 500mg/25ml solution for infusion vials
+vmp,34155811000001108,0801050Q0AAAEAE,Irinotecan pegylated liposomal 43mg/10ml solution for infusion vials
+vmp,374342006,0801010Q0AAADAD,Lomustine 100mg capsules
+vmp,374336007,0801010Q0AAAAAA,Lomustine 10mg capsules
+vmp,326760009,0801010Q0AAABAB,Lomustine 40mg capsules
+vmp,374369007,0801050R0AAAAAA,Mitotane 500mg tablets
+vmp,29889111000001100,0802040ATAAABAB,Nivolumab 100mg/10ml solution for infusion vials
+vmp,35541811000001105,0802040ATAAACAC,Nivolumab 240mg/24ml solution for infusion vials
+vmp,29889211000001106,0802040ATAAAAAA,Nivolumab 40mg/4ml solution for infusion vials
+vmp,25503511000001103,0802030G0AAAAAA,Obinutuzumab 1g/40ml solution for infusion vials
+vmp,17190711000001109,,Ofatumumab 100mg/5ml solution for infusion vials
+vmp,19265711000001106,,Ofatumumab 1g/50ml solution for infusion vials
+vmp,327036005,0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials
+vmp,10247311000001108,0801050ALAAABAB,Oxaliplatin 100mg/20ml solution for infusion vials
+vmp,14779511000001101,0801050ALAAAFAF,Oxaliplatin 150mg powder for solution for infusion vials
+vmp,10970711000001109,0801050ALAAAEAE,Oxaliplatin 200mg/40ml solution for infusion vials
+vmp,35314211000001101,,Oxaliplatin 225mg/500ml in Glucose 5% infusion bags
+vmp,35315711000001107,,Oxaliplatin 250mg/500ml in Glucose 5% infusion bags
+vmp,35316111000001100,,Oxaliplatin 280mg/500ml in Glucose 5% infusion bags
+vmp,327035009,0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials
+vmp,10246911000001106,0801050ALAAAAAA,Oxaliplatin 50mg/10ml solution for infusion vials
+vmp,416803003,,Paclitaxel 100mg powder for suspension for infusion vials
+vmp,36023611000001109,0801050V0AAABAB,Paclitaxel 100mg/16.7ml solution for infusion vials
+vmp,35580011000001104,,Paclitaxel 108mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35580411000001108,,Paclitaxel 120mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35580811000001105,,Paclitaxel 132mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,35585611000001103,,Paclitaxel 144mg/250ml in Sodium chloride 0.9% infusion bags
+vmp,36023711000001100,0801050V0AAACAC,Paclitaxel 150mg/25ml solution for infusion vials
+vmp,35586011000001101,,Paclitaxel 162mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35586411000001105,,Paclitaxel 180mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35594611000001103,,Paclitaxel 198mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35595311000001107,,Paclitaxel 216mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35595711000001106,,Paclitaxel 240mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35596111000001104,,Paclitaxel 270mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,35600111000001109,,Paclitaxel 300mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,36023811000001108,0801050V0AAADAD,Paclitaxel 300mg/50ml solution for infusion vials
+vmp,4638011000001108,0801050V0AAAAAA,Paclitaxel 30mg/5ml solution for infusion vials
+vmp,35600511000001100,,Paclitaxel 336mg/500ml in Sodium chloride 0.9% infusion bags
+vmp,20177211000001100,0801050BEAAAAAA,Paclitaxel albumin 100mg powder for suspension for infusion vials
+vmp,36025311000001103,0801050ARAAAAAA,Panitumumab 100mg/5ml solution for infusion vials
+vmp,14696711000001104,0801050ARAAABAB,Panitumumab 400mg/20ml solution for infusion vials
+vmp,14680811000001106,0801030Y0AAABAB,Pemetrexed 100mg powder for solution for infusion vials
+vmp,31375911000001100,,Pemetrexed 100mg/4ml solution for infusion vials
+vmp,31384111000001105,,Pemetrexed 1g/40ml solution for infusion vials
+vmp,8993211000001102,0801030Y0AAAAAA,Pemetrexed 500mg powder for solution for infusion vials
+vmp,31382611000001105,,Pemetrexed 500mg/20ml solution for infusion vials
+vmp,327004003,0801050W0AAAAAA,Razoxane 125mg tablets
+vmp,29211611000001100,,Secukinumab 150mg/1ml solution for injection pre-filled disposable devices
+vmp,29212711000001102,,Secukinumab 150mg/1ml solution for injection pre-filled syringes
+vmp,134627005,0801030S0AAABAB,Tegafur 100mg / Uracil 224mg capsules
+vmp,35915411000001108,0801050AUAAAAAA,Temsirolimus 30mg/1.2ml solution for infusion vials and diluent
+vmp,19311911000001101,,Thiotepa 100mg powder for solution for infusion vials
+vmp,19311511000001108,,Thiotepa 15mg powder for solution for infusion vials
+vmp,326773008,,Thiotepa 15mg powder for solution for injection vials
+vmp,35734311000001100,1001030ABAAACAC,Tofacitinib 10mg tablets
+vmp,38162311000001103,,Tofacitinib 11mg modified-release tablets
+vmp,704317002,1001030ABAAABAB,Tofacitinib 5mg tablets
+vmp,427960006,0801050AFAAADAD,Topotecan 1mg capsules
+vmp,134636009,0801050AFAAAAAA,Topotecan 1mg powder for solution for infusion vials
+vmp,21305811000001104,0801050AFAAAFAF,Topotecan 1mg/1ml solution for infusion vials
+vmp,428403002,0801050AFAAACAC,Topotecan 250microgram capsules
+vmp,327023005,0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials
+vmp,19627511000001104,0801050AFAAAEAE,Topotecan 4mg/4ml solution for infusion vials
+vmp,327399009,0801050ADAAAAAA,Trastuzumab 150mg powder for solution for infusion vials
+vmp,35903811000001108,0801050ADAAAEAE,Trastuzumab 420mg powder for solution for infusion vials
+vmp,23204911000001105,0801050ADAAABAB,Trastuzumab 600mg/5ml solution for injection vials
+vmp,23985411000001104,0801050ADAAACAC,Trastuzumab emtansine 100mg powder for solution for infusion vials
+vmp,23985511000001100,0801050ADAAADAD,Trastuzumab emtansine 160mg powder for solution for infusion vials
+vmp,33749811000001102,0105030B0AAAAAA,Ustekinumab 130mg/26ml solution for infusion vials
+vmp,17484011000001100,1305030D0AAABAB,Ustekinumab 45mg/0.5ml solution for injection pre-filled syringes
+vmp,15125511000001103,1305030D0AAAAAA,Ustekinumab 45mg/0.5ml solution for injection vials
+vmp,30920411000001100,1305030D0AAACAC,Ustekinumab 90mg/1ml solution for injection pre-filled syringes
+vmp,36149811000001101,0801040H0AAAAAA,Vinblastine 10mg powder for solution for injection vials
+vmp,36149911000001106,0801040H0AAABAB,Vinblastine 10mg/10ml solution for injection vials
+vmp,35320211000001103,,Vinblastine 10mg/50ml in Sodium chloride 0.9% infusion bags
+vmp,35320611000001101,,Vinblastine 11mg/50ml in Sodium chloride 0.9% infusion bags
+vmp,35321011000001104,,Vinblastine 12mg/50ml in Sodium chloride 0.9% infusion bags
+vmp,35321711000001102,,Vinblastine 8.2mg/50ml in Sodium chloride 0.9% infusion bags
+vmp,35322111000001108,,Vinblastine 9mg/50ml in Sodium chloride 0.9% infusion bags
+vmp,703814009,0801050BMAAAAAA,Vismodegib 150mg capsules
