@@ -47,7 +47,7 @@ ORDER BY type, nm '''
 immuno_meds = bq.cached_read(sql, csv_path=os.path.join('..','data','immuno_meds .csv'))
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
-immuno_meds
+immuno_meds.count()
 # + [markdown]
 # ## Dm+d Additions
 # Now some of the medicines dn't appear in prescribing data as they are generally hospital only medicines. WE need to include them in case a GP has recorded on a TPP system or we get access to another database. We will manually select these from a list used in a previous study by LSHTM.
@@ -124,4 +124,14 @@ ORDER BY type, nm '''
 dmd_immuno_meds = bq.cached_read(sql, csv_path=os.path.join('..','data','dmd_immuno_meds .csv'))
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
-dmd_immuno_meds
+dmd_immuno_meds.count()
+# -
+
+#join the two datframes
+immunosuppressants = pd.concat([immuno_meds, dmd_immuno_meds])
+immunosuppressants.count()
+
+immunosuppressants.sort_values(["type", "nm"])
+
+immunosuppressants.to_csv(os.path.join('..','data','immunosuppressants_codelist.csv')) #export to csv here
+
