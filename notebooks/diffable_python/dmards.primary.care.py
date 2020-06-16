@@ -31,6 +31,9 @@ WITH bnf_codes AS (
   bnf_code LIKE '0801030L0%'      OR #bnf mercaptopurine
   bnf_code LIKE '1001030F0%'      OR #bnf penicillamine
   bnf_code LIKE '1001030L0%'      OR #bnf leflunomide
+  bnf_code LIKE '1001030J0%'      OR #bnf gold
+  bnf_code LIKE '1001030U0%'      OR #bnf methotrexate - mostly oral
+  bnf_code LIKE '0801030P0%'      OR #bnf methotrexate - injections, prefilled syringes
   bnf_code LIKE '0802010M0%'         #bnf mycophenolate mofetil - mmf
 ) 
    )
